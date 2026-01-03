@@ -1,0 +1,44 @@
+body, h1, .recipes, .foot {
+    background-color: black;
+    color: rgb(167, 167, 167);
+}
+
+a {
+    color: rgb(167, 167, 167);
+}
+
+.main {
+    background-color: rgb(167, 167, 167);
+    margin: 10px;
+    padding: 10px 20px;
+}
+
+h1 {
+    padding: 10px;
+    text-align: center;
+}
+
+.recipes {
+    width: 50%;
+    margin: auto;
+    padding: 10px 30px;
+}
+
+.foot {
+    margin-top: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+.textblock {
+    background-color: black;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+
+.imgblock {
+    background-color: black;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+}
